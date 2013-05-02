@@ -12,6 +12,11 @@ and it will start to extract the absolute video url.
 
 example :
 =========
->>python redtube-dl.py http://www.redtube.com/70191
+>python redtube-dl.py http://www.redtube.com/70191
+
+Disclaimer:
+==========
+
+It is only for those who are above 18.
 
 By the way if you forget to give it a website url it will itself prompt you to write it.
